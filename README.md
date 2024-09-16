@@ -9,7 +9,9 @@ and Install the JDK msi (170.0mb)
 Then Open your terminal if you dont have an IDE (IntelliJ is recommended)
 
 1.Make Sure all the java files are in a single folder
-Check the Watchme.mp4
+Check the check my yt video to know how to run the file 
+
+video link : https://youtu.be/77JVjT-hpFI?si=2x0KAh9AGGEOXycN
 
 If you have an IDE Copy all these files and put it in your src folder of your project directory.
 
